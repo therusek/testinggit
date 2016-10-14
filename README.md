@@ -1,5 +1,5 @@
 # testinggit
-git training nothing special
-some changes in the file
+git training nothing very special
+some changes in this file
 and another line for the future
 
